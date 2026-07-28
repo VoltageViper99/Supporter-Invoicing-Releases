@@ -1,4 +1,4 @@
-# Supporter Invoicing
+## Supporter Invoicing
 
 ![Status](https://img.shields.io/badge/status-active%20development-orange)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
@@ -66,6 +66,25 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 
 ---
 
+# Screenshots
+
+### Dashboard
+
+![Supporter Invoicing dashboard](screenshots/dashboard.png)
+
+### Create an Invoice
+
+![Create invoice screen](screenshots/invoice.png)
+
+### Invoice Preview
+
+![Invoice preview screen](screenshots/invoice-finish.png)
+
+### Help System
+
+![Help page](screenshots/help.png)
+---
+
 # Download
 
 Pre-built installers are available from the
@@ -77,12 +96,6 @@ Simply download the installer for your operating system and follow the installat
 
 - Windows
 - Linux (AppImage / Flatpak / distribution packages as available)
-
----
-
-# Screenshots
-
-*Screenshots will be added as development progresses.*
 
 ---
 
@@ -190,3 +203,7 @@ This project is licensed under the MIT License.
 **Tennyson W**
 
 Developer of Supporter Invoicing
+
+Built with the goal of simplifying invoicing for Australian support workers.# Supporter Invoicing
+
+
