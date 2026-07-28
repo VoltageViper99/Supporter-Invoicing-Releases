@@ -115,6 +115,24 @@ Supporter Invoicing is built using:
 - Markdown
 
 ---
+# Roadmap
+
+### In Progress
+
+- Dashboard enhancements
+- Client profiles
+- Reporting improvements
+
+### Planned
+
+- NDIS Price Guide integration
+- Automatic service pricing
+- Search improvements
+- Backup & Restore
+- Additional reports
+- Email workflow improvements
+
+---
 
 # For Developers
 
@@ -165,24 +183,6 @@ pytest
 
 ---
 
-# Roadmap
-
-### In Progress
-
-- Dashboard enhancements
-- Client profiles
-- Reporting improvements
-
-### Planned
-
-- NDIS Price Guide integration
-- Automatic service pricing
-- Search improvements
-- Backup & Restore
-- Additional reports
-- Email workflow improvements
-
----
 
 # Contributing
 
