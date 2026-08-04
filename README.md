@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-active%20development-orange)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Proprietary-red)
 
 A modern desktop invoicing application designed for Australian sole trader support workers.
 
@@ -165,15 +165,19 @@ only the compiled, ready-to-run installers built from that source.
 
 # Contributing
 
-Bug reports, feature requests and suggestions are always welcome.
+Bug reports, feature requests and suggestions are always welcome — please open an issue.
 
-If you would like to contribute, please open an issue before submitting major changes.
+Supporter Invoicing is closed-source, so code contributions and pull requests aren't accepted.
 
 ---
 
 # License
 
-This project is licensed under the MIT License.
+Supporter Invoicing is proprietary, closed-source software. All rights are reserved by the
+copyright holder; see [LICENSE](LICENSE).
+
+Use of the compiled application distributed from this repository is governed by the
+[End User License Agreement](EULA.md).
 
 ---
 
