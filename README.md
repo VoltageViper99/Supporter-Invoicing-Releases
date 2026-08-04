@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-active%20development-orange)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A modern desktop invoicing application designed for Australian sole trader support workers.
@@ -28,15 +28,23 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Store client information
 - Manage client records
 - View client history
+- Safe client deletion (for clients without associated invoices)
 
 ## Invoice Management
 
 - Create professional invoices
 - Automatic invoice numbering
-- Edit existing invoices
+- Edit, duplicate, and delete existing invoices
 - Generate PDF invoices
+- Save invoice PDFs to a configured default folder
 - Print invoices
 - Email-ready invoices
+
+## NDIS Pricing Catalogue
+
+- Import the official NDIS Pricing Schedule PDF
+- Search support items by number or name
+- Check the NDIS website for newer schedule versions
 
 ## Earnings
 
@@ -50,6 +58,7 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Business logo
 - Invoice defaults
 - Application preferences
+- Backup & restore, with an automatic safety snapshot taken before every restore
 
 ## Help & Support
 
@@ -83,6 +92,19 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 ### Help System
 
 ![Help page](screenshots/help.png)
+
+### Client Management
+
+![Client management screen](screenshots/client.png)
+
+### Earnings
+
+![Earnings screen](screenshots/earnings.png)
+
+### Business Settings
+
+![Business settings screen](screenshots/business.png)
+
 ---
 
 # Download
@@ -94,8 +116,9 @@ Simply download the installer for your operating system and follow the installat
 
 ### Supported Platforms
 
-- Windows
-- Linux (AppImage / Flatpak / distribution packages as available)
+- Windows (installer)
+- macOS (.dmg)
+- Linux (AppImage / .deb)
 
 ---
 
@@ -125,61 +148,17 @@ Supporter Invoicing is built using:
 
 ### Planned
 
-- NDIS Price Guide integration
-- Automatic service pricing
+- Automatic service pricing from the NDIS catalogue
 - Search improvements
-- Backup & Restore
 - Additional reports
 - Email workflow improvements
 
 ---
 
-# For Developers
+# Source Code
 
-Clone the repository:
-
-```bash
-git clone https://github.com/VoltageViper99/Supporter-Invoicing.git
-cd Supporter-Invoicing
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv .venv
-```
-
-Activate it:
-
-Linux/macOS
-
-```bash
-source .venv/bin/activate
-```
-
-Windows
-
-```powershell
-.venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-python desktop.py
-```
-
-Run tests:
-
-```bash
-pytest
-```
+The application source lives in a private development repository. This repository hosts
+only the compiled, ready-to-run installers built from that source.
 
 ---
 
@@ -204,6 +183,5 @@ This project is licensed under the MIT License.
 
 Developer of Supporter Invoicing
 
-Built with the goal of simplifying invoicing for Australian support workers.# Supporter Invoicing
-
+Built with the goal of simplifying invoicing for Australian support workers.
 
