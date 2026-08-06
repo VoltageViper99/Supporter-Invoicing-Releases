@@ -30,11 +30,14 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Manage client records
 - View client history
 - Safe client deletion (for clients without associated invoices)
+- Save NDIS line items per client (item number, description, rate, and GST) for quick reuse on invoices
+- Live search for NDIS item numbers when adding a client's saved line items, with description and price prefilled automatically
 
 ## Invoice Management
 
 - Create professional invoices
 - Automatic invoice numbering
+- Pick a client's saved line items from a dropdown to quickly fill in an invoice line
 - Edit, duplicate, and delete existing invoices
 - Generate PDF invoices
 - Save invoice PDFs to a configured default folder
@@ -43,8 +46,9 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 
 ## NDIS Pricing Catalogue
 
-- Import the official NDIS Pricing Schedule PDF
+- Ships with the current NDIS Pricing Schedule pre-loaded, so it's ready to use as soon as you install
 - Search support items by number or name
+- Import an updated NDIS Pricing Schedule PDF at any time
 - Check the NDIS website for newer schedule versions
 
 ## Earnings
@@ -149,8 +153,6 @@ Supporter Invoicing is built using:
 
 ### Planned
 
-- Automatic service pricing from the NDIS catalogue
-- Search improvements
 - Additional reports
 - Email workflow improvements
 
