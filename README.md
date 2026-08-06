@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue)](https://paypal.me/VoltagePCRepairs)
 
 A modern desktop invoicing application designed for Australian sole trader support workers.
 
@@ -162,6 +163,13 @@ only the compiled, ready-to-run installers built from that source.
 
 ---
 
+
+# Support This Project
+
+Supporter Invoicing is free to use. If it's saved you time, you can support its
+development via [PayPal](https://paypal.me/VoltagePCRepairs).
+
+---
 
 # Contributing
 
