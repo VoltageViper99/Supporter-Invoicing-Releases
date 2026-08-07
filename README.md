@@ -153,8 +153,9 @@ Supporter Invoicing is built using:
 
 ### Planned
 
-- Additional reports
-- Email workflow improvements
+- Expense tracking and an end-of-financial-year tax summary report, ready to hand to your accountant
+- Xero integration, with MYOB to follow
+- Android app
 
 ---
 
