@@ -23,6 +23,7 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Monthly earnings
 - Financial year earnings
 - Quick access to common tasks
+- Guided tour for first-time users, highlighting where everything lives (skippable at any time)
 
 ## Client Management
 
@@ -51,11 +52,12 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Import an updated NDIS Pricing Schedule PDF at any time
 - Check the NDIS website for newer schedule versions
 
-## Earnings
+## Income & Expenses
 
-- Track income
+- Track income and business expenses, categorised for tax time
 - Monthly earnings
-- Financial year reporting
+- End-of-financial-year tax summary — income split by GST rate, expenses by category, net profit — with a CSV export ready to hand to your accountant
+- Quickly log an expense while creating an invoice, without it appearing on the invoice itself
 
 ## Settings
 
@@ -102,9 +104,9 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 
 ![Client management screen](screenshots/client.png)
 
-### Earnings
+### Income & Expenses
 
-![Earnings screen](screenshots/earnings.png)
+![Income & Expenses screen](screenshots/earnings.png)
 
 ### Business Settings
 
@@ -147,15 +149,14 @@ Supporter Invoicing is built using:
 
 ### In Progress
 
-- Dashboard enhancements
 - Client profiles
 - Reporting improvements
 
 ### Planned
 
-- Expense tracking and an end-of-financial-year tax summary report, ready to hand to your accountant
 - Xero integration, with MYOB to follow
 - Android app
+- Recycle bin for recovering deleted clients and invoices
 
 ---
 
