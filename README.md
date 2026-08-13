@@ -30,7 +30,7 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Store client information
 - Manage client records
 - View client history
-- Safe client deletion (for clients without associated invoices)
+- Safe client deletion (for clients without associated invoices), with restore from the recycle bin
 - Save NDIS line items per client (item number, description, rate, and GST) for quick reuse on invoices
 - Live search for NDIS item numbers when adding a client's saved line items, with description and price prefilled automatically
 
@@ -38,12 +38,13 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 
 - Create professional invoices
 - Automatic invoice numbering
-- Pick a client's saved line items from a dropdown to quickly fill in an invoice line
-- Edit, duplicate, and delete existing invoices
-- Generate PDF invoices
+- Pick a client's saved line items from a dropdown to quickly fill in an invoice line, shown on its own row so long descriptions are never cut off
+- Edit, duplicate, and delete existing invoices, with restore from the recycle bin
+- Invoices are grouped by Draft, Sent, and Paid status on the invoices list and dashboard
+- Generate PDF invoices, addressed to the participant with the plan manager/billing contact shown as a secondary line
 - Save invoice PDFs to a configured default folder
 - Print invoices
-- Email-ready invoices
+- Email-ready invoices, including your business phone number in the sign-off
 
 ## NDIS Pricing Catalogue
 
@@ -58,6 +59,7 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Monthly earnings
 - End-of-financial-year tax summary — income split by GST rate, expenses by category, net profit — with a CSV export ready to hand to your accountant
 - Quickly log an expense while creating an invoice, without it appearing on the invoice itself
+- Restore deleted income and expense entries from the recycle bin
 
 ## Settings
 
@@ -66,6 +68,7 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Invoice defaults
 - Application preferences
 - Backup & restore, with an automatic safety snapshot taken before every restore
+- Recycle bin for restoring or permanently deleting clients, invoices, income, and expenses
 
 ## Help & Support
 
@@ -156,7 +159,6 @@ Supporter Invoicing is built using:
 
 - Xero integration, with MYOB to follow
 - Android app
-- Recycle bin for recovering deleted clients and invoices
 
 ---
 
