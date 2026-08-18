@@ -55,9 +55,9 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 
 ## Income & Expenses
 
-- Track income and business expenses, categorised for tax time
+- Track income and business expenses, categorised for tax time — including Vehicle fuel, maintenance and insurance, Travel expenses, Donations, Entertainment, Office expenses, and Superannuation
 - Monthly earnings
-- End-of-financial-year tax summary — income split by GST rate, expenses by category, net profit — with a CSV export ready to hand to your accountant
+- End-of-financial-year tax summary — income split by GST rate, expenses by category, net profit — with a CSV export ready to hand to your accountant (GST rows and columns are omitted automatically if you're not GST registered)
 - Quickly log an expense while creating an invoice, without it appearing on the invoice itself
 - Restore deleted income and expense entries from the recycle bin
 
@@ -66,7 +66,8 @@ Supporter Invoicing was created after observing how much time sole trader suppor
 - Business information
 - Business logo
 - Invoice defaults
-- Application preferences
+- GST registered toggle — turn it off and GST disappears from every field, figure, and report app-wide
+- Appearance: Light, Dark, NDIS Light, NDIS Dark, or a fully custom colour theme, plus a font size preference
 - Backup & restore, with an automatic safety snapshot taken before every restore
 - Recycle bin for restoring or permanently deleting clients, invoices, income, and expenses
 
