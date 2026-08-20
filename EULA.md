@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **Supporter Invoicing**
-Last updated: 2026-08-04
+Last updated: 2026-08-20
 
 This End User License Agreement ("Agreement") is a legal agreement between
 you ("User") and Tennyson W ("Licensor") governing your use of the Supporter
@@ -71,3 +71,11 @@ Agreement.
 ## 9. Contact
 
 For questions about this Agreement, open an issue on this repository.
+
+## 10. Microsoft Store Distribution
+
+If you obtained the Software through the Microsoft Store, the Microsoft
+Store Standard Application License Terms also apply to your use of the
+Software, in addition to this Agreement. To the extent of any conflict
+between this Agreement and those terms for a Microsoft Store installation,
+the Microsoft Store Standard Application License Terms govern.
